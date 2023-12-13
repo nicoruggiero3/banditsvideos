@@ -1,0 +1,21 @@
+.lbOverlay{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+    background-image: url("images/overlay.png");
+}
+
+.lbContent{
+    position: relative;
+    top: 15%;
+    left: 25%;
+    width: 50%;
+    text-align: center;
+}
+
+.hidden{
+    display: none;
+}
